@@ -3,8 +3,9 @@ table {
 }
 
 h3 {
-    display: inline-block;
-    width: 49.5%;
+display: inline;
+    background-color: rgb(41, 66, 66);
+    color: floralwhite;
 }
 
 header {
@@ -12,7 +13,11 @@ header {
 }
 
 div {
-    display: inline-block;
+    display: inline-table;
     width: 49%;
+}
+
+body{
+    background-color: rgba(241, 241, 241, 0.822);
 }
 
