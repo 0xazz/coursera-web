@@ -3,9 +3,7 @@ table {
 }
 
 h3 {
-display: inline;
-    background-color: rgb(38, 53, 53);
-    color: rgb(253, 237, 205);
+    color: rgb(38, 53, 53);
 }
 
 header {
@@ -27,4 +25,3 @@ body{
 a {
     color:linen;
 }
-
