@@ -3,10 +3,11 @@ table {
 }
 
 h3 {
-    background-color: lightskyblue;
+    background-color: rgb(176, 216, 241);
+    display:inline-block;
+    font-size:large ;
 }
 
 header {
     text-align: center;
 }
-
