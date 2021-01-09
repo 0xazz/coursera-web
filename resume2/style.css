@@ -25,3 +25,13 @@ body{
 a {
     color:linen;
 }
+
+ul{
+    margin-left: 2.5%;
+    padding-left: 2.5%;
+}
+
+p {
+    margin-left: 2.5%;
+    padding-left: 2.5%;
+}
